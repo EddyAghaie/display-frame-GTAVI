@@ -5,6 +5,11 @@ DIY PlayStation Gaming Wall Art made with a printed game cover, deep A4 picture 
 
 # PlayStation Gaming Wall Art
 
+<p align="center">
+  <img src="images/wallart.jpg" width="600">
+</p>
+
+DIY PlayStation Gaming Wall Art...
 A DIY gaming wall art project made from a PlayStation game case, a printed game cover, a GIF player, and 3D-printed parts.
 
 This project turns a simple game case into a unique gaming decoration with a small display that can play your favorite GIFs.
